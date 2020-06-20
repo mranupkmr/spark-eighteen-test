@@ -1,7 +1,7 @@
 {
   "name": "spark-eighteen-test",
   "version": "0.1.0",
-  "homepage": "https://github.com/mranupkmr/spark-eighteen-test",
+  "homepage": "https://mranupkmr.github.io/spark-eighteen-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
