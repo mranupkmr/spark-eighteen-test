@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.full-width-nav{
+  background: #ffffff !important;
+  color: #000000;
+  border-bottom: 2px solid rgba(27,24,24,0.1);
+}
+.navbar-light .navbar-brand {
+  color: #9c27b0;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: #000000;
+}
+.home-body{
+  margin-top: 20px;
+}
+li{
+  list-style: none;
+}
