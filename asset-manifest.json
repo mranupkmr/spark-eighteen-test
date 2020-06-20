@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mranupkmr/spark-eighteen-test/static/css/main.8694f905.chunk.css",
+    "main.js": "/mranupkmr/spark-eighteen-test/static/js/main.18887bef.chunk.js",
+    "main.js.map": "/mranupkmr/spark-eighteen-test/static/js/main.18887bef.chunk.js.map",
+    "runtime-main.js": "/mranupkmr/spark-eighteen-test/static/js/runtime-main.f75a54f8.js",
+    "runtime-main.js.map": "/mranupkmr/spark-eighteen-test/static/js/runtime-main.f75a54f8.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/mranupkmr/spark-eighteen-test/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.00c89254.chunk.js": "/mranupkmr/spark-eighteen-test/static/js/2.00c89254.chunk.js",
+    "static/js/2.00c89254.chunk.js.map": "/mranupkmr/spark-eighteen-test/static/js/2.00c89254.chunk.js.map",
+    "index.html": "/mranupkmr/spark-eighteen-test/index.html",
+    "precache-manifest.97e8e69d0b218369875b9631f65c29ea.js": "/mranupkmr/spark-eighteen-test/precache-manifest.97e8e69d0b218369875b9631f65c29ea.js",
+    "service-worker.js": "/mranupkmr/spark-eighteen-test/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/mranupkmr/spark-eighteen-test/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.8694f905.chunk.css.map": "/mranupkmr/spark-eighteen-test/static/css/main.8694f905.chunk.css.map",
+    "static/js/2.00c89254.chunk.js.LICENSE.txt": "/mranupkmr/spark-eighteen-test/static/js/2.00c89254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f75a54f8.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.00c89254.chunk.js",
+    "static/css/main.8694f905.chunk.css",
+    "static/js/main.18887bef.chunk.js"
+  ]
+}
